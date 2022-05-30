@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Love4codes
-- 👀 I’m interested in blockchain development and software development
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m Rayhacks
+- 👀 I’m interested in updates in regards to hacking
+- 🌱 I’m a novice hacker
 - 💞️ I’m looking to collaborate on anything at all (*-*)
 - 📫 How to reach me (<<@praiseonline247@gmail.com;)
 
