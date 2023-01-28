@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rayhacks
+- 👋 Hi, I’m praise
 - 👀 I’m interested in updates in regards to hacking
 - 🌱 I’m a novice hacker
 - 💞️ I’m looking to collaborate on anything at all (*-*)
